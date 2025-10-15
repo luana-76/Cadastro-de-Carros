@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  background: #2575fc;
   color: #333;
   margin: 0;
   padding: 0;
@@ -60,7 +60,7 @@ form button {
 
 
 form button:hover {
-  background: #2a5298; 
+  background: #2575fc; 
 }
 
 
@@ -79,7 +79,7 @@ th, td {
 
 
 th {
-  background-color: #1e3c72;
+  background-color: #2575fc;
   color: white; 
 }
 
